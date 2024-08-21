@@ -4,9 +4,9 @@ Sou desenvolvedor com mais de 10 anos de experiência, apaixonado por tecnologia
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens**: Java, JavaScript, Python, [outras linguagens que você domina]
-- **Frameworks**: [Frameworks e bibliotecas relevantes]
-- **Ferramentas**: Git, Docker, Jenkins, [outras ferramentas que você usa]
+- **Linguagens**: Java, JavaScript, Python, Go
+- **Frameworks**: Laravel, Django, AdonisJS
+- **Ferramentas**: Git, Docker, Jenkins.
 - **Outros**: Desenvolvimento de APIs, Microsserviços, Automação, [outros conhecimentos ou especialidades]
 
 ## 🌱 O que estou aprendendo
@@ -30,4 +30,4 @@ Se você deseja colaborar em algum projeto ou apenas trocar uma ideia sobre tecn
 
 ## 📈 Estatísticas do GitHub
 
-![Suas estatísticas do GitHub](link_para_estatísticas)
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allanmdev&show_icons=true&theme=radical)
