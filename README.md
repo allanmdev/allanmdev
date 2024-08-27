@@ -38,5 +38,3 @@ Se você deseja colaborar em algum projeto ou apenas trocar uma ideia sobre tecn
 ## 📈 Estatísticas do GitHub
 
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=allanmdev&show_icons=true&theme=radical)
-
-<button>Quero pegar a juh</button>
